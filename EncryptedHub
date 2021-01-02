@@ -9,5 +9,10 @@ else
 if place == 5272267802 then
 print("Loaded (*N23im29iok GUI")
 loadstring(game:HttpGet("https://raw.githubusercontent.com/EncryptedHubX/BEAT.bat/main/BEAT.lua"))()
+else
+if place == 2677609345 then
+print("Loaded (*02o3gm+-332t GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/EncryptedHubX/SPAP/main/SPAP.lua"))()
+end
 end
 end
