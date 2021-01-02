@@ -21,6 +21,11 @@ else
 if place == 2677609345 then
 print("Loaded (*02o3gm+-332t GUI")
 loadstring(game:HttpGet("https://raw.githubusercontent.com/EncryptedHubX/SPAP/main/SPAP.lua"))()
+else
+if place == 4956876523 then
+print("Loaded (*gri99 GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/EncryptedHubX/BLS/main/BLSH.lua"))()
+end
 end
 end
 end
