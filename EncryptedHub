@@ -25,6 +25,11 @@ else
 if place == 4956876523 then
 print("Loaded (*gri99 GUI")
 loadstring(game:HttpGet("https://raw.githubusercontent.com/EncryptedHubX/BLS/main/BLSH.lua"))()
+else
+if place == 171391948 then
+print("loaded (23if9m GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/EncryptedHubX/VHSAF/main/VHSIM.lua"))()
+end
 end
 end
 end
