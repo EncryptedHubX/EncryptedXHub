@@ -30,12 +30,14 @@ if place == 171391948 then
 print("loaded (23if9m GUI")
 loadstring(game:HttpGet("https://raw.githubusercontent.com/EncryptedHubX/VHSAF/main/VHSIM.lua"))()
 else
+if place == 5130498426 then
 print("loaded (2389g GUI")
 loadstring(game:HttpGet("https://raw.githubusercontent.com/EncryptedHubX/AoT-InsertPlayGround/main/AOT.lua"))()
 else
 if place == 4003872968 then
 print("loaded (2f198m GUI")
 loadstring(game:HttpGet("https://raw.githubusercontent.com/EncryptedHubX/GS/main/GSS.lua"))()
+end
 end
 end
 end
