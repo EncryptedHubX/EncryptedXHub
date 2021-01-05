@@ -38,6 +38,11 @@ else
 if place == 4003872968 then
 print("loaded (2f198m GUI")
 loadstring(game:HttpGet("https://raw.githubusercontent.com/EncryptedHubX/GS/main/GSS.lua"))()
+else
+if place == 5709572883 then
+print("Loaded (iw1idf1 GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/EncryptedHubX/LLS/main/LLS.lua"))()
+end
 end
 end
 end
