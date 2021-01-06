@@ -45,7 +45,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/EncryptedHubX/LLS/mai
 else
 if place == 301549746 then
 print("loaded (f298nf GUI")
-loadstring(game:HttpsGet("https://raw.githubusercontent.com/EncryptedHubX/CBRO.2300-0923mg09283g0/main/cbrocheese.lua"))()
+loadstring(game:HttpsGet("https://raw.githubusercontent.com/EncryptedHubX/cbro/main/cbro.lua"))()
 end
 end
 end
