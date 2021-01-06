@@ -43,7 +43,7 @@ if place == 5709572883 then
 print("Loaded (iw1idf1 GUI")
 loadstring(game:HttpGet("https://raw.githubusercontent.com/EncryptedHubX/LLS/main/LLS.lua"))()
 else
-if place ==  then
+if place == 301549746 then
 print("loaded (f298nf GUI")
 loadstring(game:HttpsGet("https://raw.githubusercontent.com/EncryptedHubX/CBRO.2300-0923mg09283g0/main/cbrocheese.lua"))()
 end
