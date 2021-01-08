@@ -46,6 +46,11 @@ else
 if place == 3101667897 then
 print("loaded (19fdiwn GUi")
 loadstring(game:HttpGet("https://raw.githubusercontent.com/EncryptedHubX/LOS/main/Legends%20Of%20Speed.lua"))()
+else
+if place == 5293755937 then
+print("loaded (i9ig GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/EncryptedHubX/SRS/main/SRS.lua"))()
+end
 end
 end
 end
