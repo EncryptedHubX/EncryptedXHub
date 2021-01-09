@@ -50,6 +50,11 @@ else
 if place == 5293755937 then
 print("loaded (i9ig GUI")
 loadstring(game:HttpGet("https://raw.githubusercontent.com/EncryptedHubX/SRS/main/SRS.lua"))()
+else
+if place == 5977280685 then
+print("loaded (i922ig GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/EncryptedHubX/NL2/main/NL2IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII"))()
+end
 end
 end
 end
