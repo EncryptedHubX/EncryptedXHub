@@ -7,6 +7,7 @@
 |_______)|_| |_| \____)|_|     \__  || ||_/  \___) \____) \____|  /_/  \_\
                               (____/ |_|                                  
 ]]--
+--[[
 local place = game.PlaceId
 spawn(function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/lolpoppyus/Roblox-Lua/master/Pop%20UI%20Lib", true))()
@@ -65,3 +66,4 @@ end
 end
 end
 end
+]]--
