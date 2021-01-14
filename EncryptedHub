@@ -58,6 +58,10 @@ else
 if place == 4399032158 then
 print("loaded (iwg9ig GUI")
 loadstring(game:HttpGet("https://raw.githubusercontent.com/EncryptedHubX/thick/main/ticklegends.lua"))()
+else if place  then
+print("loaded (wifnwf GUI")
+loadstring(game:HttpsGet("https://raw.githubusercontent.com/EncryptedHubX/Ninja-Legends/main/NinjaLegends1"))()
+end
 end
 end
 end
