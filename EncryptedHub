@@ -55,14 +55,9 @@ if place == 5977280685 then
 print("loaded (i922ig GUI")
 loadstring(game:HttpGet("https://raw.githubusercontent.com/EncryptedHubX/NL2/main/NL2IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII"))()
 else
-if place == 301549746 then
-print("loaded (i9igrg GUI")
-loadstring(game:HttpGet("https://raw.githubusercontent.com/EncryptedHubX/cbro.e/main/cbro.lua"))()
-else
 if place == 4399032158 then
 print("loaded (iwg9ig GUI")
 loadstring(game:HttpGet("https://raw.githubusercontent.com/EncryptedHubX/thick/main/ticklegends.lua"))()
-end
 end
 end
 end
