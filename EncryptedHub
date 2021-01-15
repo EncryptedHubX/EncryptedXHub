@@ -65,7 +65,7 @@ loadstring(game:HttpsGet("https://raw.githubusercontent.com/EncryptedHubX/Ninja-
 else
 if place == 4042427666 then
 print("loaded (i39ig GUI")
-https://raw.githubusercontent.com/EncryptedHubX/AnimeFightSim/main/Anime%20Fighting%20Simulator.lua
+loadstring(game:HttpsGet("https://raw.githubusercontent.com/EncryptedHubX/AnimeFightSim/main/Anime%20Fighting%20Simulator.lua"))()
 end
 end
 end
